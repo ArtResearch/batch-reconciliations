@@ -1,0 +1,20 @@
+count,PVCS[@etichetta='Country'],PVCR[@etichetta='Region / Federal State'],PVCP[@etichetta='District'],label,label_en,label_it,label_de,label_fr,type,scope_note,wikidata_description,tgn_uri,wikidata_uri,number_of_results
+15453,Italia,Lazio,Roma,Roma,,,,,provinces,,former province in the Lazio region of Italy,http://vocab.getty.edu/tgn/7003138,http://www.wikidata.org/entity/Q15119,1
+10738,Italia,Toscana,Firenze,Firenze,Florence province,,,,provinces,,former province of Tuscany,http://vocab.getty.edu/tgn/7003163,http://www.wikidata.org/entity/Q16172,1
+6389,Italia,Lombardia,Milano,Milano,,,,,provinces,,"province in the Lombardy region, Italy",http://vocab.getty.edu/tgn/7003150,http://www.wikidata.org/entity/Q15121,1
+3527,Italia,Umbria,Perugia,Perugia,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/7003170,http://www.wikidata.org/entity/Q16240,1
+3261,Italia,Veneto,Venezia,Venezia,,,,,provinces,,"former province in the region of Veneto, Italy",http://vocab.getty.edu/tgn/7003006,http://www.wikidata.org/entity/Q16310,1
+2977,Italia,Emilia Romagna,Bologna,Bologna,,,,,provinces,,former province of Italy,http://vocab.getty.edu/tgn/7003127,http://www.wikidata.org/entity/Q16139,1
+2218,Italia,Toscana,Siena,Siena,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/7003168,http://www.wikidata.org/entity/Q16275,1
+1824,Italia,Lombardia,Bergamo,Bergamo,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/7005023,http://www.wikidata.org/entity/Q16137,1
+1691,Italia,Campania,Napoli,Napoli,,,,,provinces,,former province in Italy,http://vocab.getty.edu/tgn/7003013,http://www.wikidata.org/entity/Q15123,1
+1198,Italia,Piemonte,Torino,Torino,Province of Turin,Torino,Turin,Turin,provinces,,former province in Italy (1859 to 2015),http://vocab.getty.edu/tgn/7003154,http://www.wikidata.org/entity/Q16287,1
+1075,Italia,Liguria,Genova,Genova,,,,,provinces,,former province in Italy,http://vocab.getty.edu/tgn/7003142,http://www.wikidata.org/entity/Q16183,1
+907,Italia,Toscana,Pisa,Pisa,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/7003166,http://www.wikidata.org/entity/Q16244,1
+901,Italia,Marche,Pesaro e Urbino,Pesaro e Urbino,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/1003483,http://www.wikidata.org/entity/Q16241,1
+849,Italia,Veneto,Verona,Verona,,,,,provinces,,one of seven provinces in the Italian region Veneto,http://vocab.getty.edu/tgn/7003007,http://www.wikidata.org/entity/Q16314,1
+794,Italia,Emilia Romagna,Ferrara,Ferrara,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/7003128,http://www.wikidata.org/entity/Q16168,1
+678,Italia,Toscana,Arezzo,Arezzo,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/7003162,http://www.wikidata.org/entity/Q16115,1
+667,Italia,Veneto,Padova,Padova,,,,,provinces,,"province of Veneto, Italy",http://vocab.getty.edu/tgn/7002994,http://www.wikidata.org/entity/Q16226,1
+617,Italia,Emilia Romagna,Modena,Modena,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/7004597,http://www.wikidata.org/entity/Q16209,1
+584,Italia,Marche,Macerata,Macerata,,,,,provinces,,province of Italy,http://vocab.getty.edu/tgn/1003471,http://www.wikidata.org/entity/Q16203,1
